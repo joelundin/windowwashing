@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Joe's Window Washing</title>
+</head>
+<body>
+  <header>
+    <h1>Joe's Window Washing</h1>
+    <h2>Professional Window Cleaning Services</h2>
+    <p>Call us today for a free quote!</p>
+    <a href="tel:123-456-7890">123-456-7890</a>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Joe's Window Washing is a family-owned and operated business that has been providing professional window cleaning services for over 20 years. We are committed to providing our customers with the highest quality of service at an affordable price.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Residential window cleaning</li>
+        <li>Commercial window cleaning</li>
+        <li>Gutter cleaning</li>
+        <li>Pressure washing</li>
+        <li>And more!</li>
+      </ul>
+    </section>
+    <section id="testimonials">
+      <h2>Testimonials</h2>
+      <blockquote>
+        <p>"Joe's Window Washing did a great job cleaning our windows. They were professional, efficient, and the windows look great!"</p>
+        <cite>John Smith</cite>
+      </blockquote>
+      <blockquote>
+        <p>"I've been using Joe's Window Washing for years and I'm always happy with their service. They're reliable, affordable, and they do a great job."</p>
+        <cite>Jane Doe</cite>
+      </blockquote>
+    </section>
+    <section id="subscription">
+      <h2>Subscription Service</h2>
+      <p>We offer a subscription service for window cleaning that is perfect for busy families and businesses. With our subscription service, you can rest assured that your windows will be clean and sparkling every month.</p>
+      <a href="#">Learn more</a>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>To learn more about our services or to schedule a free quote, please contact us today.</p>
+      <a href="tel:123-456-7890">123-456-7890</a>
+      <a href="mailto:info@joeswindowwashing.com">info@joeswindowwashing.com</a>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 Joe's Window Washing</p>
+  </footer>
+</body>
+</html>
